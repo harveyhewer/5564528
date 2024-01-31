@@ -1,0 +1,4 @@
+admin admin a john doe home
+doctor doctor d jim dave house
+patient patient p bob bob shed
+doctor1 doctor1 d dave joe bar
